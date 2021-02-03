@@ -3,7 +3,7 @@ datascience
 numpy 
 pandas 
 scipy 
-folium==0.2.1 
+folium
 matplotlib 
 ipywidgets>=7.0.0 
 bqplot 
